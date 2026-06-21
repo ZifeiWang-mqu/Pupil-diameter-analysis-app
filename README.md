@@ -96,3 +96,9 @@ streamlit run app.py
 * 実験データに対する品質管理処理
 * 解析結果を再現可能な形で出力する設計
 
+## デモ
+
+* このアプリはStreamlit Community Cloudで公開しています。
+https://pupil-diameter-analysis-app-7m4uh82rczl9x2sgotmzeu.streamlit.app/
+
+
