@@ -71,6 +71,17 @@ streamlit run app.py
 
 実験参加者の個人情報および研究データ保護のため、実際の実験データは公開していない。サンプルデータは、元データのファイル名規則と列構造を参考に作成した合成データである。
 
+## スクリーンショット
+
+### アップロード画面
+![Upload screen](screenshots/upload.png)
+
+### パラメータ設定
+![Sidebar settings](screenshots/parameters.png)
+
+### 結果
+![ZIP output](screenshots/outcome.png)
+
 ## 工夫した点
 
 * 2秒条件と6秒条件を最初の入力ファイル名の段階で分類し、解析結果が混ざらないようにした。
